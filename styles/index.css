@@ -1,0 +1,8 @@
+.countable-text{
+    text-transform: uppercase ;
+}
+.bg-sofa{
+    background-image: url(../images/sofa.jpg);
+    background-attachment: fixed ;
+    background-size: auto;
+}
