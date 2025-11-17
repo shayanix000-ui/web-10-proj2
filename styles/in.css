@@ -1,0 +1,15 @@
+.bgm{
+    background-image:url(../images/bgm.jpg);
+ background-size: auto;
+ background-attachment:fixed;
+}
+.text-white{
+    text-decoration: none;
+}
+.dcore{
+    text-decoration: underline;
+    color: black;
+}
+.bg-whitee{
+    background-color: rgb(214, 203, 203);
+}
